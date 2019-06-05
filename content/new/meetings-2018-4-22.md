@@ -1,5 +1,5 @@
 ---
-#author: "北京大学软件工程"
+author: "北京大学软件工程"
 date: 2019-04-22
 linktitle: meetings-2018-4-22
 menu:
