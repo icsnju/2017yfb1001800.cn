@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/congtang/Desktop/2017yfb1001800.cn",
+	"sourceRoot": "/Users/congtang/Desktop/桌面 - 汤聪的mbp/2017yfb1001800.cn",
 	"sources": [
 		"themes/simplicity-master/assets/src/styles/styles.scss",
 		"themes/simplicity-master/assets/src/styles/_chroma_friendly.scss",
