@@ -9,8 +9,6 @@ install:
   - go get github.com/gohugoio/hugo
 
 script:
-  - git submodule init
-  - git submodule update
   - hugo
 
   # Deploy to GitHub pages
